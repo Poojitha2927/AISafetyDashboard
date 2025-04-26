@@ -8,6 +8,7 @@ This project implements a frontend dashboard to log and display AI safety incide
 - View the full description of each incident.
 - Add new AI safety incidents.
 
+
 ### **Tech Stack:**
 - **Frontend**: React.js
 - **Styling**: CSS (Basic, Clean Styling with Flexbox/Grid)
