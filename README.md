@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Safety Incident Dashboard
 
 ## Project Overview:
@@ -31,3 +32,6 @@ This project implements a frontend dashboard to log and display AI safety incide
 First, clone the repository to your local machine using Git:
 ```bash
 git clone https://github.com/your-username/ai-safety-dashboard.git
+=======
+# ai-safety-dashboard
+>>>>>>> 336b51ee0dced8aa6577ce00cc1ae06c95852e30
