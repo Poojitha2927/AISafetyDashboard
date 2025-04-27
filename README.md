@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # AI Safety Incident Dashboard
 
+
+DEPLOYMENT LINK:  https://ai-safety-dashboard-884ir353j-mopuri-poojithas-projects.vercel.app/
+
+
 ## Project Overview:
 This project implements a frontend dashboard to log and display AI safety incidents. The application allows users to:
 - View a list of AI safety incidents.
