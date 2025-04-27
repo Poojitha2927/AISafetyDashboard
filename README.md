@@ -28,14 +28,4 @@ This project implements a frontend dashboard to log and display AI safety incide
 4. **View Details**: Allows the user to toggle the visibility of the full description for each incident.
 5. **Add New Incident**: A form to report a new incident with Title, Description, and Severity.
 
----
 
-## Installation and Setup:
-
-### 1. Clone the repository:
-First, clone the repository to your local machine using Git:
-```bash
-git clone https://github.com/your-username/ai-safety-dashboard.git
-=======
-# ai-safety-dashboard
->>>>>>> 336b51ee0dced8aa6577ce00cc1ae06c95852e30
